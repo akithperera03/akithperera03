@@ -16,7 +16,7 @@ I'm a software engineering student at SLIIT (Sri Lanka Institute of Information 
 - **Tools**: Git, MySQL Workbench, Visual Studio Code
 
 ### 🌐 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/akith-perera)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/akith-perera)
 
 ---
 
